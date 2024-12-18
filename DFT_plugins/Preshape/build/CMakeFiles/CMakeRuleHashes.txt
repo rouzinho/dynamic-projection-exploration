@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+a218ce49430b324200fd2e3f5c744392 CMakeFiles/clean_test_results
+84c20055c811089256616219f062c92f generated_project_files/Preshape/moc_Preshape.cpp
